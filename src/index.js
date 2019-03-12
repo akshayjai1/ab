@@ -1,8 +1,6 @@
 import React from "react";
 import { render } from "react-dom";
-
 import AccordionF from "./AccordionF";
-
 import "./styles.css";
 
 function App() {
